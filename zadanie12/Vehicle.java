@@ -1,4 +1,4 @@
-package zadanie7;
+package zadanie12;
 
 public class Vehicle {
     protected void start(){

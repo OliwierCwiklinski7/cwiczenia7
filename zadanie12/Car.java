@@ -1,4 +1,4 @@
-package zadanie7;
+package zadanie12;
 
 public class Car extends Vehicle {
     private int numberOfSeats;
